@@ -75,7 +75,7 @@ export default function AdminVisitsPage() {
       
       {/* Add Visit Modal */}
       {showAdd && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-40">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-transparent bg-opacity-40 backdrop-blur-sm">
           <div className="w-full max-w-md p-6 bg-white rounded">
             <h3 className="mb-4 text-lg font-medium">Tambah Kunjungan</h3>
             <div className="space-y-3">

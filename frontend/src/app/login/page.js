@@ -72,7 +72,7 @@ export default function LoginPage() {
               <BookOpenIcon className="text-white h-14 w-14" />
             </div>
           </div>
-          <h1 className="text-2xl font-bold text-white">Sanbook</h1>
+          <h1 className="text-2xl font-bold text-white">Peminjaman Buku</h1>
           {/* <h1 className="text-2xl font-bold text-white">Sistem Peminjaman Buku</h1> */}
           <p className="mt-2 text-white/90">Masuk ke akun Anda</p>
         </div>
